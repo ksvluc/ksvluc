@@ -20,4 +20,4 @@ Building full-stack apps and caring about how they are built, tested, and observ
 - [ITMO_CSA](https://github.com/ksvluc/ITMO_CSA) — computer systems architecture
 - [ITMO_OPD](https://github.com/ksvluc/ITMO_OPD) — low-level / professional practice labs
 
-Interested in full-stack development, open source, and tech opportunities in Japan.
+Interested in full-stack development, open source, and tech opportunities everywhere.
